@@ -1,0 +1,2 @@
+# MERNG
+Skeletal MERNG Stack
